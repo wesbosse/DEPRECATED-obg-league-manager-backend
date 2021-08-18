@@ -1,0 +1,22 @@
+{
+  "ids": {
+    "Game": 3,
+    "User": 4,
+    "UserCredentials": 4
+  },
+  "models": {
+    "Game": {
+      "3": "{\"player1\":1,\"player2\":2,\"id\":3}"
+    },
+    "User": {
+      "6e02a434-d652-4d57-a716-3fd79047eac1": "{\"id\":\"6e02a434-d652-4d57-a716-3fd79047eac1\",\"email\":\"wes.bosse@gmail.com\"}",
+      "7f6d88ea-cef5-4855-ab44-9f5015f85c7c": "{\"id\":\"7f6d88ea-cef5-4855-ab44-9f5015f85c7c\",\"email\":\"wes.bosse@gmail.com\"}",
+      "45edbc09-8580-4426-bc17-8db5f3787884": "{\"id\":\"45edbc09-8580-4426-bc17-8db5f3787884\",\"email\":\"wesbosse@gmail.com\"}"
+    },
+    "UserCredentials": {
+      "5ba64ceb-b279-440e-a1bf-706d548d53a3": "{\"id\":\"5ba64ceb-b279-440e-a1bf-706d548d53a3\",\"password\":\"$2a$10$8BbgKstyXeNhN66.KJ.xH.wL.f5ZLX99PEhmsnVXQbk/PvmnjHUtS\",\"userId\":\"6e02a434-d652-4d57-a716-3fd79047eac1\"}",
+      "0fc5ef30-cce7-4dba-b235-42aeca8eb945": "{\"id\":\"0fc5ef30-cce7-4dba-b235-42aeca8eb945\",\"password\":\"$2a$10$ue0GLPeZhKiZkf1LGvpTY.babK4/e1wY9iG7rV8CdmIlNPyRd.wOO\",\"userId\":\"7f6d88ea-cef5-4855-ab44-9f5015f85c7c\"}",
+      "96ae2050-349f-4fc9-be3f-d7b351653172": "{\"id\":\"96ae2050-349f-4fc9-be3f-d7b351653172\",\"password\":\"$2a$10$EeRiSfnvQ67mCUdSfmvROugCXNGGEv5waURMr3BERPcga.qrw0...\",\"userId\":\"45edbc09-8580-4426-bc17-8db5f3787884\"}"
+    }
+  }
+}
